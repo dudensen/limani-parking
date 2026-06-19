@@ -19,7 +19,7 @@ function App() {
 
       <section id="home" className="hero">
         <div className="heroBox">
-          <p className="eyebrow">Smart Parking Management</p>
+          <p className="eyebrow">Limani Parking</p>
 
           <h1>Parking slots made simple.</h1>
 
